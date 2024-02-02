@@ -1,6 +1,7 @@
-
+@@ -1,12 +1,12 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Snehit Raj</h1>
-<vedio src="[https://images.app.goo.gl/jMtZScJoRRDfuDTM6](https://64.media.tumblr.com/722fb07f13764fb24e8b3739d20c2c9c/ff7b7fd2c7453fa1-ff/s1280x1920/03f3388017974120a109da5a6c1df75b57c6dcf5.gif)"></vedio>
+
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=live-punk&label=Profile%20views&color=0e75b6&style=flat" alt="live-punk" /> </p>
